@@ -11,7 +11,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
     <html lang="en">
       <body>
         <header className="w-full border-b bg-white" style={{ paddingTop: "30px" }}>
-          <div className="mx-auto flex max-w-7xl items-center gap-4 px-4 py-3 md:px-8">
+          <div className="container mx-auto flex max-w-7xl items-center gap-4 px-4 py-3 md:px-8">
             <img
               src="https://go.ameripharmaspecialty.com/wp-content/uploads/2023/03/Specialty-Color-%C2%AE-Logo-1.png"
               alt="AmeriPharma Specialty Logo"
